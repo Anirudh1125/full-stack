@@ -1,9 +1,7 @@
 .main
 { 
-    width: 300px;
-    margin-top: 100px;
-    margin-left: auto;
-    margin-right: auto;
+    
+    
 }
 .logo-img
 {
@@ -12,6 +10,7 @@
     margin-bottom:20px;
     margin-left: auto;
     margin-right: auto;
+    margin-top: 200px;
 }
 
 
@@ -21,6 +20,39 @@
     margin-right: auto;
     width: 400px;
     display: block;
+    border-radius: 24px;
+    border: 1px solid #dfe1e5;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    height: 24px;
+    
 }
+
+.btn-wrapper
+{
+    display: flex;
+    justify-content: center;
+}
+.btn
+{
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 30px;
+    background: #dfe1e5;
+    border-radius: 5px;
+    border: 0px solid #f8f8f8;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left :10px;
+    padding-right: 10px;
+    border-radius: 4px;
+    font-size: 14px;
+
+    
+}
+
+
  
 
